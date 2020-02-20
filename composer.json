@@ -24,11 +24,11 @@
 		"issues": "https://github.com/brabijan/images/issues"
 	},
 	"require": {
-		"latte/latte": "~2.4",
-		"nette/di": "~2.4",
-		"nette/http": "~2.4",
-		"nette/utils": "~2.4",
-		"nette/finder": "~2.4"
+		"latte/latte": "^2.6",
+		"nette/di": "^3.0",
+		"nette/http": "^3.0",
+		"nette/utils": "^3.0",
+		"nette/finder": "^3.0"
 	},
 	"autoload": {
 		"psr-0": {
